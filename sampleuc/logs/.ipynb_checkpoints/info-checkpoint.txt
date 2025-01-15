@@ -1,0 +1,110 @@
+2024-07-01 09:46:23,127 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-01 09:46:23,127 - Comm - WARNING - No such comm: 58055318-c289-474f-b824-70af83b333af
+2024-07-01 09:46:24,140 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-01 09:46:24,155 - Comm - WARNING - No such comm: 225bd319-c513-4364-964d-e54b0ed28c5b
+2024-07-02 12:40:22,805 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:40:22,805 - Comm - WARNING - No such comm: 3802b334-2229-40f9-915a-8d8c22206685
+2024-07-02 12:45:46,043 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:45:46,056 - Comm - WARNING - No such comm: 6198348a-d007-42f1-821e-02a435fdacef
+2024-07-02 12:52:27,505 - py4j.clientserver - INFO - Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-07-02 12:52:27,537 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:27,537 - root - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-07-02 12:52:29,582 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:29,582 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:29,582 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:31,628 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:31,629 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:33,662 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:33,664 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:35,688 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:35,688 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:37,724 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:37,724 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:39,751 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:39,751 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:41,778 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:41,780 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:43,823 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:43,823 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:45,849 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:45,849 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:47,862 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:47,863 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:49,880 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:49,880 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:51,913 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:51,914 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:53,935 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:53,935 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:55,965 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:55,967 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:57,998 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:57,998 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:00,017 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:00,017 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:02,032 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:02,032 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:04,078 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:04,078 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:11,521 - py4j.clientserver - INFO - Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-07-02 12:53:11,522 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:11,524 - root - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-07-02 12:53:13,568 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:17,132 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:17,133 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:19,149 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:19,151 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:21,183 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:21,183 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:23,218 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:23,218 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:25,234 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:25,235 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:27,284 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:27,285 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:29,320 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:29,321 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:31,348 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:31,348 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:33,386 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:33,386 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:56:00,432 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:56:00,581 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:57:21,311 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:57:21,315 - Comm - WARNING - No such comm: 501593e4-da43-43ec-a9b7-683a986729e0

@@ -1,0 +1,452 @@
+2024-07-01 09:46:23,127 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-01 09:46:23,127 - Comm - WARNING - No such comm: 58055318-c289-474f-b824-70af83b333af
+2024-07-01 09:46:24,140 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-01 09:46:24,155 - Comm - WARNING - No such comm: 225bd319-c513-4364-964d-e54b0ed28c5b
+2024-07-02 12:40:22,805 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:40:22,805 - Comm - WARNING - No such comm: 3802b334-2229-40f9-915a-8d8c22206685
+2024-07-02 12:45:46,043 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:45:46,056 - Comm - WARNING - No such comm: 6198348a-d007-42f1-821e-02a435fdacef
+2024-07-02 12:52:27,505 - py4j.clientserver - INFO - Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-07-02 12:52:27,537 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:27,537 - root - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-07-02 12:52:29,582 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:29,582 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:29,582 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:31,628 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:31,629 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:33,662 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:33,664 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:35,688 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:35,688 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:37,724 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:37,724 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:39,751 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:39,751 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:41,778 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:41,780 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:43,823 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:43,823 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:45,849 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:45,849 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:47,862 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:47,863 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:49,880 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:49,880 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:51,913 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:51,914 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:53,935 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:53,935 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:55,965 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:55,967 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:57,998 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:52:57,998 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:00,017 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:00,017 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:02,032 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:02,032 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:04,078 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:04,078 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:11,521 - py4j.clientserver - INFO - Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-07-02 12:53:11,522 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:11,524 - root - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-07-02 12:53:13,568 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:17,132 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:17,133 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:19,149 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:19,151 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:21,183 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:21,183 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:23,218 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:23,218 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:25,234 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:25,235 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:27,284 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:27,285 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:29,320 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:29,321 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:31,348 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:31,348 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:33,386 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:53:33,386 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:56:00,432 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:56:00,581 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 12:57:21,311 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:57:21,315 - Comm - WARNING - No such comm: 501593e4-da43-43ec-a9b7-683a986729e0
+2024-07-02 12:58:22,691 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 12:58:22,697 - Comm - WARNING - No such comm: b613d50d-f51e-4f65-b40a-56d2384e0dfe
+2024-07-02 13:45:29,788 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 13:45:29,789 - Comm - WARNING - No such comm: 34f64ebe-98bc-4256-b19e-dfe958f139a2
+2024-07-02 16:07:07,965 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 16:07:07,993 - Comm - WARNING - No such comm: 2d833c0c-c852-46b4-84ca-348dd854e1c5
+2024-07-02 17:35:39,156 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 17:35:39,162 - Comm - WARNING - No such comm: f18ef22b-f8e5-437a-bb52-e334c8e007fa
+2024-07-02 18:26:17,509 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 18:26:17,526 - Comm - WARNING - No such comm: a2e9e0b7-3824-4db9-8bed-e394409be412
+2024-07-02 18:36:49,070 - root - ERROR - KeyboardInterrupt while sending command.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+                          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\socket.py", line 706, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2024-07-02 18:36:49,112 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-02 19:22:17,188 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 19:22:17,188 - Comm - WARNING - No such comm: 3dfdd87f-e4be-4832-84e0-b267e1170486
+2024-07-02 19:22:17,267 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 19:22:17,283 - Comm - WARNING - No such comm: 87fff276-ad7c-411a-8dee-eddbd2ff44ea
+2024-07-02 19:22:17,330 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 19:22:17,346 - Comm - WARNING - No such comm: 0a1d6880-5f84-4e33-ba80-223dc11236f6
+2024-07-02 21:19:09,454 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 21:19:09,470 - Comm - WARNING - No such comm: 1194a421-f022-4a20-a55b-2b0016809c7a
+2024-07-02 21:19:09,487 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 21:19:09,487 - Comm - WARNING - No such comm: edb86ddd-4e35-46d0-98e2-854b7f248f27
+2024-07-02 21:19:09,501 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 21:19:09,501 - Comm - WARNING - No such comm: 32b5b28a-e2e9-47a0-9f06-27fd2f734223
+2024-07-02 22:32:24,045 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 22:32:24,057 - Comm - WARNING - No such comm: 1e9a7b61-373a-448f-bab8-71d282d8b199
+2024-07-02 23:08:05,718 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 23:08:05,729 - Comm - WARNING - No such comm: e0e798a1-6bd7-4a0e-8f3e-2b9c23b1acf0
+2024-07-02 23:10:08,068 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 23:10:08,077 - Comm - WARNING - No such comm: 4ec917b2-1722-49f8-845d-eaf8f098758e
+2024-07-02 23:15:21,221 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-02 23:15:21,226 - Comm - WARNING - No such comm: 3f7ac801-7adc-48c1-af2a-b8397f6acaa8
+2024-07-03 00:06:24,359 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 00:06:24,361 - Comm - WARNING - No such comm: bd37f26e-86be-4a88-82cc-73db0230a0b3
+2024-07-03 00:18:04,145 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 00:18:04,147 - Comm - WARNING - No such comm: ba8dc8ea-2ad6-40c8-bad2-41fe819be23d
+2024-07-03 00:31:08,634 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 00:31:08,645 - Comm - WARNING - No such comm: 9ce79059-b220-4d6b-a21e-8016f5eef008
+2024-07-03 04:11:09,873 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 04:11:09,889 - Comm - WARNING - No such comm: 93744e43-a3ce-4ccc-baff-b349cdcff4d4
+2024-07-03 04:11:19,453 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 04:11:19,453 - Comm - WARNING - No such comm: be45476f-bdff-45b6-84c3-7c334d67d528
+2024-07-03 04:11:19,474 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 04:11:19,485 - Comm - WARNING - No such comm: 5b9e30c7-41b9-4044-bd38-390cc6661941
+2024-07-03 04:11:19,516 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 04:11:19,516 - Comm - WARNING - No such comm: dbbcff1a-733a-4faf-ba13-fdbbca933eb6
+2024-07-03 04:11:19,563 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 04:11:19,580 - Comm - WARNING - No such comm: 66b45edb-1b12-4f2f-bebe-7849bcb688ed
+2024-07-03 07:23:06,665 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 07:23:06,680 - Comm - WARNING - No such comm: 7c27ea71-efe6-4b47-b3a6-9ca2fda8713f
+2024-07-03 07:23:07,682 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 07:23:07,698 - Comm - WARNING - No such comm: 3b33cc7c-4ecc-4d1c-b788-efc9a615a30a
+2024-07-03 07:23:07,723 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 07:23:07,731 - Comm - WARNING - No such comm: 8ce976dc-2ba2-48b7-8ce7-c0df2c760ceb
+2024-07-03 07:23:07,780 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 07:23:07,780 - Comm - WARNING - No such comm: f59ad898-236a-4a1e-92c5-c0d1db92283d
+2024-07-03 07:23:07,845 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 07:23:07,854 - Comm - WARNING - No such comm: 88c6cc6f-38ed-417d-8241-5cf44e7b7954
+2024-07-03 08:59:19,854 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 08:59:19,870 - Comm - WARNING - No such comm: 22e79cf1-3392-4a03-813b-ec578229b6a0
+2024-07-03 08:59:20,673 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 08:59:20,673 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 08:59:20,673 - Comm - WARNING - No such comm: 676f6773-f337-4147-9eef-1bdd6d5b678f
+2024-07-03 08:59:20,689 - Comm - WARNING - No such comm: e1a6c278-b60c-4cb8-8dac-a30e94426295
+2024-07-03 08:59:21,570 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 08:59:21,585 - Comm - WARNING - No such comm: a9be6204-5373-42c8-a146-8da9d7535174
+2024-07-03 08:59:21,632 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 08:59:21,632 - Comm - WARNING - No such comm: 996c5fa3-cad4-4208-8b16-8d6c691ff27f
+2024-07-03 09:15:29,264 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:15:29,269 - Comm - WARNING - No such comm: 5257cbc2-6451-4a13-9d5f-131cd4c48fad
+2024-07-03 09:39:09,845 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:39:09,856 - Comm - WARNING - No such comm: 58eef427-9f8c-47c7-9f11-2cf95df06ba0
+2024-07-03 09:40:02,023 - log_module - INFO - Starting the total MAPE calculation pipeline
+2024-07-03 09:40:02,033 - log_module - INFO - Creating master table with one-hot encoded columns
+2024-07-03 09:40:02,033 - log_module - ERROR - An error occurred while calculating the total MAPE: name 'encoding_categorical_variables' is not defined
+2024-07-03 09:58:58,775 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:58:58,775 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:58:58,791 - Comm - WARNING - No such comm: a01bc9cb-521b-4c20-b3c0-066ef027127e
+2024-07-03 09:58:58,791 - Comm - WARNING - No such comm: a8d0ca35-6a15-4f54-8e21-ea6caa058b1b
+2024-07-03 09:59:00,271 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:59:00,271 - Comm - WARNING - No such comm: f783d4fb-9763-4136-b8b2-c4af35017d71
+2024-07-03 09:59:00,382 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:59:00,382 - Comm - WARNING - No such comm: d3ac104e-ff97-4065-a64c-35c004d7268a
+2024-07-03 09:59:00,791 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:59:00,807 - Comm - WARNING - No such comm: 737485d1-10d9-4515-a1fe-f28365c3464b
+2024-07-03 09:59:01,011 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 09:59:01,019 - Comm - WARNING - No such comm: 2b286b83-9030-433d-a382-72e17dec0bbd
+2024-07-03 10:06:04,443 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:06:04,452 - Comm - WARNING - No such comm: 2873080a-d526-4aec-8d07-7178ac377ce0
+2024-07-03 10:25:23,737 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:25:23,746 - Comm - WARNING - No such comm: 595cdd89-e3af-435f-980a-ac3988fc20d3
+2024-07-03 10:49:52,272 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:52,272 - Comm - WARNING - No such comm: c8953b60-0bc6-49f9-ba2f-afa1b9dc84bb
+2024-07-03 10:49:52,476 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:52,476 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:52,491 - Comm - WARNING - No such comm: 6cb18000-9c41-483a-bd81-a31b0950462b
+2024-07-03 10:49:52,498 - Comm - WARNING - No such comm: 80fd19f5-a772-48e5-a9fd-423a0435065e
+2024-07-03 10:49:52,507 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:52,511 - Comm - WARNING - No such comm: 6024011d-cba8-4cc2-b831-ce7323338370
+2024-07-03 10:49:52,824 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:52,824 - Comm - WARNING - No such comm: 8bbf742a-f945-485b-b9e0-bdb06502264b
+2024-07-03 10:49:52,864 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:52,874 - Comm - WARNING - No such comm: 98d20b24-71bd-4edc-9a1d-e0a2457dc52c
+2024-07-03 10:49:54,570 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:54,570 - Comm - WARNING - No such comm: 7453deac-8c17-4387-9921-8de0615cb6e3
+2024-07-03 10:49:54,744 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 10:49:54,760 - Comm - WARNING - No such comm: 3b098098-fce7-4961-8d84-52992f611ae6
+2024-07-03 11:16:13,787 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 11:16:13,800 - Comm - WARNING - No such comm: d420bece-0147-473b-a7b1-388978918c97
+2024-07-03 11:55:34,537 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 11:55:34,552 - Comm - WARNING - No such comm: 087995aa-4dc6-4a40-9063-3eb89509b26d
+2024-07-03 12:39:27,838 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 12:39:27,844 - Comm - WARNING - No such comm: 8b60cf6b-3eec-40a1-9a5d-9ece9058bb40
+2024-07-03 12:42:54,112 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 12:42:54,119 - Comm - WARNING - No such comm: dcc7181d-726d-454b-a176-ea5e5f21ae9f
+2024-07-03 13:18:59,077 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:18:59,077 - Comm - WARNING - No such comm: c657d2ef-eef1-40ad-8128-cd02b7f10f41
+2024-07-03 13:18:59,093 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:18:59,109 - Comm - WARNING - No such comm: e2d54f40-1876-4b6c-a870-c456997f6d7f
+2024-07-03 13:29:57,356 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:29:57,356 - Comm - WARNING - No such comm: d5decf72-5d5c-47e3-b3d8-03f77e49cec5
+2024-07-03 13:39:19,020 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:39:19,020 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:39:19,020 - Comm - WARNING - No such comm: c6a12648-4062-4e9d-8189-c983325309f4
+2024-07-03 13:39:19,538 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:39:19,556 - Comm - WARNING - No such comm: 85c1445d-e9fb-432b-9704-6e3221d432ce
+2024-07-03 13:47:36,709 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:47:36,709 - Comm - WARNING - No such comm: 52dc7f51-aed0-45ef-98f2-a4da63a79b50
+2024-07-03 13:47:36,785 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:47:36,785 - Comm - WARNING - No such comm: 3a63b94b-46df-4c6d-80bd-2d5341051376
+2024-07-03 13:47:36,800 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:47:36,811 - Comm - WARNING - No such comm: 5eb74624-36c4-4fbc-871c-c87a34f603a8
+2024-07-03 13:54:13,295 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:54:13,304 - Comm - WARNING - No such comm: 5de72979-2200-4fc6-abba-ccc871d2ea63
+2024-07-03 13:57:40,601 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 13:57:40,607 - Comm - WARNING - No such comm: b88f6f9d-2d24-4417-b178-f2ce1a5f447b
+2024-07-03 14:01:29,316 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-07-03 14:01:29,316 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-07-03 14:14:05,496 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:14:05,496 - Comm - WARNING - No such comm: 0b86f2ab-1acd-4be0-8103-f7d3af3f5c31
+2024-07-03 14:14:05,684 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:14:05,684 - Comm - WARNING - No such comm: 03420af2-fb10-4c26-a78a-da1cdb7db666
+2024-07-03 14:14:05,794 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:14:05,794 - Comm - WARNING - No such comm: dda634f0-b8f0-4233-bf5f-c0cc3d2ecb76
+2024-07-03 14:14:07,484 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:14:07,484 - Comm - WARNING - No such comm: e12b1a06-30d2-49a3-ae36-283700a18cb6
+2024-07-03 14:14:11,499 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:14:11,499 - Comm - WARNING - No such comm: 3b135647-00ab-459f-a3e8-00b22f858f19
+2024-07-03 14:19:08,204 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:19:08,213 - Comm - WARNING - No such comm: 3e5898ab-b39f-4ede-b243-094993f55cad
+2024-07-03 14:31:05,536 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:31:05,552 - Comm - WARNING - No such comm: 2160caea-5bcf-4b27-984e-5be0e91efe06
+2024-07-03 14:43:37,506 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 14:43:37,522 - Comm - WARNING - No such comm: d1f0e71e-7bd3-4942-a86f-e8c7ea565b7b
+2024-07-03 15:16:04,434 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 15:16:04,450 - Comm - WARNING - No such comm: d55cc97c-b1fd-4c32-a0c1-30d7b11018cc
+2024-07-03 15:35:46,440 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 15:35:46,458 - Comm - WARNING - No such comm: 00394068-c873-4238-9463-12a03e3d2ecd
+2024-07-03 15:38:46,438 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 15:38:46,446 - Comm - WARNING - No such comm: c739ba05-fee8-4fe6-8a04-9e9e05962498
+2024-07-03 15:40:38,475 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 15:40:38,475 - Comm - WARNING - No such comm: bc511f25-96e3-47f8-950a-6026bbace4c7
+2024-07-03 15:43:08,390 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 15:43:08,390 - Comm - WARNING - No such comm: 50101be7-d711-49d8-b549-5f6ddef36b7a
+2024-07-03 15:51:22,401 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 15:51:22,401 - Comm - WARNING - No such comm: f2bb989a-93fc-4865-a7f0-6694171bc524
+2024-07-03 17:05:07,816 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 17:05:07,831 - Comm - WARNING - No such comm: da618488-9cab-4a37-b4a1-b4cf43af1ab0
+2024-07-03 20:20:42,408 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 20:20:42,408 - Comm - WARNING - No such comm: 8da5a713-bdeb-4d88-8e38-b98e2ac235f3
+2024-07-03 23:32:18,942 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-03 23:32:18,958 - Comm - WARNING - No such comm: 0bbb66bf-bf24-4675-91f5-41b560c54ebc
+2024-07-04 02:44:18,354 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 02:44:18,370 - Comm - WARNING - No such comm: 3bcf3321-4c4b-4842-afb7-956fa5691391
+2024-07-04 05:56:14,680 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 05:56:14,695 - Comm - WARNING - No such comm: 8340a512-bd55-4a6d-940a-5abd70ba2a03
+2024-07-04 08:29:03,375 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 08:29:03,390 - Comm - WARNING - No such comm: 46193ead-10eb-4874-ae4a-914bda25e136
+2024-07-04 09:58:01,401 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 09:58:01,411 - Comm - WARNING - No such comm: 43f04a30-9b22-4960-8c05-5a995b182472
+2024-07-04 10:37:16,606 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 10:37:16,623 - Comm - WARNING - No such comm: 714cbaa3-2eb4-4186-b61f-cd6f075bb62a
+2024-07-04 11:16:20,501 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 11:16:20,511 - Comm - WARNING - No such comm: 30c8d790-2ab7-4f92-90ba-b68395d5ae94
+2024-07-04 11:18:40,292 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 11:18:40,292 - Comm - WARNING - No such comm: 22685676-4883-4c74-abdc-d2bfe6bfce87
+2024-07-04 11:26:27,672 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 11:26:27,672 - Comm - WARNING - No such comm: bcb7be01-ac59-4acc-a6e1-ee96f3e6de3e
+2024-07-04 12:30:24,794 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 12:30:24,794 - Comm - WARNING - No such comm: abd55a40-dc17-49ef-ba33-785bfd0d3167
+2024-07-04 12:30:26,304 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 12:30:26,304 - Comm - WARNING - No such comm: 2d364d4e-b57b-476b-81d1-bfc769bd7e3e
+2024-07-04 13:31:40,234 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 13:31:40,234 - Comm - WARNING - No such comm: 3ddd2f8b-815e-4741-8043-0f3ffbc35fd5
+2024-07-04 13:31:40,879 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 13:31:40,879 - Comm - WARNING - No such comm: 12627e07-457e-45c2-b496-6662998a88e8
+2024-07-04 13:34:59,341 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 13:34:59,341 - Comm - WARNING - No such comm: 24efaf53-932d-44d8-ab8e-5733be49143e
+2024-07-04 13:34:59,388 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 13:34:59,403 - Comm - WARNING - No such comm: 51879040-12ff-480c-b789-14ae8a13b1c1
+2024-07-04 14:48:32,884 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 14:48:32,916 - Comm - WARNING - No such comm: 106b2c6d-3632-466c-bd9e-274dd0b5d85f
+2024-07-04 14:48:32,916 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 14:48:32,931 - Comm - WARNING - No such comm: 00730929-b04f-4a4d-9450-d8d80c7a0cf0
+2024-07-04 14:50:34,295 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 14:50:34,295 - Comm - WARNING - No such comm: fee50dfd-2f96-4928-8166-b801d4c15415
+2024-07-04 14:50:35,364 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 14:50:35,364 - Comm - WARNING - No such comm: 5fad679c-afd6-47da-8fa9-66ef9f2d27b5
+2024-07-04 18:26:16,940 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 18:26:16,956 - Comm - WARNING - No such comm: beb4d2f5-57a0-4ed1-b53e-9c028ea1b8e5
+2024-07-04 18:26:18,591 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 18:26:18,591 - Comm - WARNING - No such comm: 3c0d0358-2473-4b14-b2c0-deca90ba4ce1
+2024-07-04 21:38:15,216 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 21:38:15,216 - Comm - WARNING - No such comm: 890efaff-21d5-4382-bb96-ca7601138cb7
+2024-07-04 21:38:15,248 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-04 21:38:15,264 - Comm - WARNING - No such comm: 117cfe56-2f0b-4e60-85d0-5aa1754cd82a
+2024-07-05 00:50:13,246 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 00:50:13,262 - Comm - WARNING - No such comm: b4bd6d62-47c8-4885-a08c-48ab6b78d478
+2024-07-05 00:50:13,309 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 00:50:13,309 - Comm - WARNING - No such comm: ceb8a13a-9dcf-4ea7-b150-eabb7ad926a2
+2024-07-05 04:02:12,441 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 04:02:12,456 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 04:02:12,456 - Comm - WARNING - No such comm: 93189381-bf05-4e8f-8f5d-dc9a62293cb5
+2024-07-05 04:02:12,567 - Comm - WARNING - No such comm: e369c03b-3851-4e84-b120-4d21e1f7ced1
+2024-07-05 07:14:09,218 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 07:14:09,234 - Comm - WARNING - No such comm: e7a5240c-b80e-48ea-b282-9c41074a9bb4
+2024-07-05 07:14:11,234 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 07:14:11,234 - Comm - WARNING - No such comm: 627385d9-50c7-433a-9a56-648b745ba4b1
+2024-07-05 09:31:31,745 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 09:31:31,745 - Comm - WARNING - No such comm: 39ac7a5e-dfb4-4cc8-a7b2-ff3632f47c93
+2024-07-05 09:31:32,611 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 09:31:32,627 - Comm - WARNING - No such comm: 6d887ea8-cae4-45fc-bc23-9f5e9c5281a9
+2024-07-05 11:57:28,518 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 11:57:28,904 - Comm - WARNING - No such comm: e8787bab-8ce1-48c5-879e-9daebf4fe509
+2024-07-05 11:57:30,415 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 11:57:30,421 - Comm - WARNING - No such comm: 09296afb-e4ac-4652-a0b5-1057293484c0
+2024-07-05 19:30:06,856 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 19:30:06,866 - Comm - WARNING - No such comm: e91eee34-de84-4bd8-a7dc-d6510a05d7f6
+2024-07-05 19:30:08,198 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 19:30:08,210 - Comm - WARNING - No such comm: 65a48a3a-b916-4e3d-9ebc-eefb97f89ad8
+2024-07-05 22:46:54,513 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 22:46:54,520 - Comm - WARNING - No such comm: 55115e19-7251-4d99-9654-f8f9cc990ef8
+2024-07-05 22:46:56,131 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-05 22:46:56,137 - Comm - WARNING - No such comm: cc25b62c-04ea-4fb7-a45f-063bd39500a3
+2024-07-06 02:03:52,671 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 02:03:52,678 - Comm - WARNING - No such comm: 3181a61a-6129-41a1-aa10-776cfecef5d8
+2024-07-06 02:03:53,159 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 02:03:53,162 - Comm - WARNING - No such comm: 60c05b7b-88a4-401d-ae99-c0229e83f470
+2024-07-06 05:20:50,032 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 05:20:50,038 - Comm - WARNING - No such comm: 0e524123-5148-4a6b-b756-42ddd567d877
+2024-07-06 05:20:50,120 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 05:20:50,125 - Comm - WARNING - No such comm: 6210fea2-0edc-470e-86e9-03107b4923ba
+2024-07-06 08:37:48,160 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 08:37:48,170 - Comm - WARNING - No such comm: 115eb7a0-842b-43ef-baa6-7adf2e93543b
+2024-07-06 08:37:49,120 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 08:37:49,125 - Comm - WARNING - No such comm: 256211a3-b41f-43aa-87c1-cd4abebd29c3
+2024-07-06 11:54:46,284 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 11:54:46,289 - Comm - WARNING - No such comm: 839a69d7-7ff8-41dc-a5e2-8f25e538c874
+2024-07-06 11:54:47,103 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 11:54:47,110 - Comm - WARNING - No such comm: 05a15b98-40f6-486b-ab0c-60a6a5e35401
+2024-07-06 15:11:43,047 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 15:11:43,055 - Comm - WARNING - No such comm: 32780f42-f301-498d-893a-84b1cbb2dcb1
+2024-07-06 15:11:44,085 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 15:11:44,091 - Comm - WARNING - No such comm: 3927f47a-4a27-47cc-8f44-8a236ecf696d
+2024-07-06 18:28:40,777 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 18:28:40,793 - Comm - WARNING - No such comm: 62ed80b4-060e-463e-b173-0b24aaf0b1a3
+2024-07-06 18:28:41,133 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 18:28:41,141 - Comm - WARNING - No such comm: b08cabc3-a5b1-48d0-8d05-be9e952689a1
+2024-07-06 21:40:38,552 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 21:40:38,560 - Comm - WARNING - No such comm: 6cc1d2a2-80bf-415a-bdd1-18899ea399c7
+2024-07-06 21:40:39,281 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-06 21:40:39,289 - Comm - WARNING - No such comm: 846c10c2-2fb7-44d8-b3b7-ec0f7b2d168b
+2024-07-07 00:52:36,978 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 00:52:36,986 - Comm - WARNING - No such comm: fac9845d-575c-4950-bd7a-acd58ef37e88
+2024-07-07 00:52:37,204 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 00:52:37,212 - Comm - WARNING - No such comm: cfcaa2cd-fca3-4f28-9678-8ac3fc30b54b
+2024-07-07 04:04:35,474 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 04:04:35,482 - Comm - WARNING - No such comm: 9c4ef158-8674-46ee-9fa4-2deb1aa4b4ef
+2024-07-07 04:04:37,139 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 04:04:37,147 - Comm - WARNING - No such comm: 0b04b9f6-cfa1-4d4e-8a9d-802f7de3bea7
+2024-07-07 07:16:33,459 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 07:16:33,476 - Comm - WARNING - No such comm: 958572f9-efcc-4c94-b58a-46bfbdf158ab
+2024-07-07 07:16:35,065 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 07:16:35,074 - Comm - WARNING - No such comm: 10209122-4ee0-469e-82ac-64370194a259
+2024-07-07 10:28:32,466 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 10:28:32,474 - Comm - WARNING - No such comm: 2ba71d4b-615b-4dd7-b1a0-e84a9e29d99e
+2024-07-07 10:28:34,187 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 10:28:34,193 - Comm - WARNING - No such comm: 1c5114d6-f486-4ce9-a224-fb299061929a
+2024-07-07 13:40:30,560 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 13:40:30,568 - Comm - WARNING - No such comm: 29f3e468-25c3-448e-a0df-6036812d9d6a
+2024-07-07 13:40:32,079 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 13:40:32,087 - Comm - WARNING - No such comm: 101b5f14-cd94-42bd-bf1a-ff0ec28bdcc7
+2024-07-07 13:53:29,927 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 13:53:29,927 - Comm - WARNING - No such comm: fd2ad1f2-4063-4b1c-958b-61aa523b0887
+2024-07-07 13:53:30,980 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 13:53:30,995 - Comm - WARNING - No such comm: 25e3c021-c9d2-4d45-adc7-2f44c803a711
+2024-07-07 15:22:16,103 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 15:22:16,103 - Comm - WARNING - No such comm: 9fdaea17-045e-46fb-976c-e2f5636b2074
+2024-07-07 15:22:16,150 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 15:22:16,181 - Comm - WARNING - No such comm: 0de4796c-9220-40e4-8ff8-abffbc85aa4e
+2024-07-07 19:13:40,630 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 19:13:40,646 - Comm - WARNING - No such comm: cb23c655-2994-4aa3-819b-c58e5e4fa6df
+2024-07-07 19:13:40,991 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 19:13:41,007 - Comm - WARNING - No such comm: d922e7ab-ea43-4fa3-b4fe-9a680841d695
+2024-07-07 20:39:09,791 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 20:39:09,807 - Comm - WARNING - No such comm: 14a617ec-2fe5-4b5f-8f1c-2bb0633d5590
+2024-07-07 20:48:00,375 - ipykernel.comm - ERROR - No such comm target registered: jupyter.widget.control
+2024-07-07 20:48:00,386 - Comm - WARNING - No such comm: e77b48dc-cdc6-4a5f-bdfe-2bf67bd8f158
+2024-07-07 20:48:08,178 - py4j.clientserver - INFO - Error while sending or receiving.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-07-07 20:48:08,225 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-07 20:48:08,228 - root - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 503, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\amayaa\AppData\Local\anaconda3\Lib\site-packages\py4j\clientserver.py", line 506, in send_command
+    raise Py4JNetworkError(
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-07-07 20:48:10,262 - py4j.clientserver - INFO - Closing down clientserver connection
+2024-07-07 20:51:50,691 - py4j.clientserver - INFO - Closing down clientserver connection

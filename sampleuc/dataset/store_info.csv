@@ -1,0 +1,6 @@
+stg_outlet_cd,stg_outlet_area_ft_val,stg_outlet_parking_lots_num,stg_population_within_1km_val,stg_population_within_2km_val,stg_population_within_3km_val,stg_no_of_compet_supermarket_val,stg_outlet_profile_cat,stg_outlet_cluster_cat
+D,11237,68,12000,32000,48000,5,Moderate,Medium
+B,11500,50,13074,40343,61402,2,High,Medium
+A,10150,52,31000,80000,96000,2,Moderate,Medium
+E,10000,12,18000,40000,121000,0,High,Medium
+C,14425,41,28345,99609,151628,0,High,Large

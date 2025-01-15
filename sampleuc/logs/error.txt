@@ -1,0 +1,1 @@
+2024-07-03 09:40:02,033 - log_module - ERROR - An error occurred while calculating the total MAPE: name 'encoding_categorical_variables' is not defined

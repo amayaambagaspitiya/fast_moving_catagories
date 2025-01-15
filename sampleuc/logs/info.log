@@ -1,0 +1,63 @@
+2024-07-07 21:54:46,233 - sample_usecase - INFO - Loading Data Sources
+2024-07-07 21:54:46,410 - sample_usecase - INFO - Loaded transaction data
+2024-07-07 21:54:46,562 - sample_usecase - INFO - Loaded item info details data
+2024-07-07 21:54:46,712 - sample_usecase - INFO - Loaded store details data
+2024-07-07 21:54:46,713 - sample_usecase - INFO - Loaded data successful. start time: 2024-07-07 21:54:46.233056 end time: 2024-07-07 21:54:46.713205
+2024-07-07 21:55:00,174 - sample_usecase - INFO - Loaded pre-process transaction data
+2024-07-07 21:55:00,192 - sample_usecase - INFO - Loaded pre-process store details data
+2024-07-07 21:55:00,220 - sample_usecase - INFO - Loaded pre-process item details data
+2024-07-07 21:55:07,180 - sample_usecase - INFO - Loaded weekly sales details data
+2024-07-07 21:55:10,476 - sample_usecase - INFO - Loaded select the week column and order process transaction data
+2024-07-07 21:55:11,650 - sample_usecase - INFO - Loaded filtered needed outlet data
+2024-07-07 21:55:28,363 - sample_usecase - INFO - Loaded top fifteen categories data
+2024-07-07 21:55:31,747 - sample_usecase - INFO - Loaded create primary key for needed granularity data
+2024-07-07 21:55:35,774 - sample_usecase - INFO - Loaded primary key with weekly column data
+2024-07-07 21:55:35,816 - sample_usecase - INFO - Loaded created target varible data
+2024-07-07 21:55:41,156 - sample_usecase - INFO - Loaded created granularity for month year week data
+2024-07-07 21:55:41,210 - sample_usecase - INFO - Loaded created sesonal features data
+2024-07-07 21:55:44,893 - sample_usecase - INFO - Loaded filtered store features data
+2024-07-07 21:55:44,924 - sample_usecase - INFO - Loaded created primary key for store features data
+2024-07-07 21:55:48,237 - sample_usecase - INFO - Joined primary key table and item pre-process data
+2024-07-07 21:55:48,323 - sample_usecase - INFO - Calculated item per week data
+2024-07-07 21:55:52,821 - sample_usecase - INFO - Calculated sales related features data
+2024-07-07 21:55:56,824 - sample_usecase - INFO - Joined all the dataframe data
+2024-07-07 21:55:57,100 - sample_usecase - INFO - Loaded created master table data
+2024-07-07 21:56:04,392 - sample_usecase - INFO - Loaded final master dataframe for first three weeks data
+2024-07-07 21:56:36,221 - sample_usecase - INFO - Loaded final encode data for final master dataframe
+2024-07-07 21:56:40,302 - sample_usecase - INFO - Loaded train test split dataframe
+2024-07-07 21:56:43,055 - sample_usecase - INFO - Loaded applied vector assembler for test data
+2024-07-07 21:57:01,567 - sample_usecase - INFO - Loaded applied vector assembler for train data
+2024-07-07 21:57:27,937 - sample_usecase - INFO - fit the data into model
+2024-07-07 21:58:32,026 - sample_usecase - INFO - Loading Data Sources
+2024-07-07 21:58:37,024 - sample_usecase - INFO - Loaded transaction data
+2024-07-07 21:58:37,288 - sample_usecase - INFO - Loaded item info details data
+2024-07-07 21:58:37,926 - sample_usecase - INFO - Loaded store details data
+2024-07-07 21:58:37,929 - sample_usecase - INFO - Loaded data successful. start time: 2024-07-07 21:58:32.026731 end time: 2024-07-07 21:58:37.929041
+2024-07-07 21:58:38,137 - sample_usecase - INFO - Loaded pre-process transaction data
+2024-07-07 21:58:38,175 - sample_usecase - INFO - Loaded pre-process store details data
+2024-07-07 21:58:38,214 - sample_usecase - INFO - Loaded pre-process item details data
+2024-07-07 21:58:43,152 - sample_usecase - INFO - Loaded weekly sales details data
+2024-07-07 21:58:43,182 - sample_usecase - INFO - Loaded select the week column and order process transaction data
+2024-07-07 21:58:43,198 - sample_usecase - INFO - Loaded filtered needed outlet data
+2024-07-14 17:22:12,527 - sample_usecase - INFO - Loading Data Sources
+2024-07-14 17:22:16,496 - sample_usecase - INFO - Loaded transaction data
+2024-07-14 17:22:16,738 - sample_usecase - INFO - Loaded item info details data
+2024-07-14 17:22:16,971 - sample_usecase - INFO - Loaded store details data
+2024-07-14 17:22:16,971 - sample_usecase - INFO - Loaded data successful. start time: 2024-07-14 17:22:12.527764 end time: 2024-07-14 17:22:16.971482
+2024-07-14 17:22:17,074 - sample_usecase - INFO - Loaded pre-process transaction data
+2024-07-14 17:22:17,088 - sample_usecase - INFO - Loaded pre-process store details data
+2024-07-14 17:22:17,109 - sample_usecase - INFO - Loaded pre-process item details data
+2024-07-14 17:22:20,541 - sample_usecase - INFO - Loaded weekly sales details data
+2024-07-14 17:22:20,589 - sample_usecase - INFO - Loaded select the week column and order process transaction data
+2024-07-14 17:22:20,614 - sample_usecase - INFO - Loaded filtered needed outlet data
+2024-07-14 17:22:20,871 - sample_usecase - INFO - Loaded top fifteen categories data
+2024-07-14 17:22:20,987 - sample_usecase - INFO - Loaded create primary key for needed granularity data
+2024-07-14 17:22:28,873 - sample_usecase - INFO - Loaded primary key with weekly column data
+2024-07-14 17:22:28,907 - sample_usecase - INFO - Loaded created target varible data
+2024-07-14 17:22:31,049 - sample_usecase - INFO - Loaded created granularity for month year week data
+2024-07-14 17:22:31,095 - sample_usecase - INFO - Loaded created sesonal features data
+2024-07-14 17:22:32,907 - sample_usecase - INFO - Loaded filtered store features data
+2024-07-14 17:22:32,923 - sample_usecase - INFO - Loaded created primary key for store features data
+2024-07-14 17:22:34,017 - sample_usecase - INFO - Joined primary key table and item pre-process data
+2024-07-14 17:22:34,060 - sample_usecase - INFO - Calculated item per week data
+2024-07-14 17:22:35,434 - sample_usecase - INFO - Calculated sales related features data
